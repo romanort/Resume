@@ -1,9 +1,8 @@
 # Pedro [Roman] Ortega
-## Contact Info: ![Mail Icon](mail-icon-logo-28FE0635D0-seeklogo.com.png) romanportega@gmail.com
+## Contact Info: ![Mail Icon](mailicon.png) romanportega@gmail.com
 
 
 ## Education
-
  - **MiraCosta College** 
  Intended: B.S. Cogntive Science  & Computer Science
 

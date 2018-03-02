@@ -1,5 +1,5 @@
-# Nery Chapeton-Lamas
-## Contact Info: ![email icon](Mail-icon.png) [Email](nchapetonLamas@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/nerychapeton/)
+# Pedro [Roman] Ortega
+## Contact Info: [Email](romanportega@gmail.com)
 
 
 ## Education
@@ -12,10 +12,9 @@ B.S., Computer Science & Engineering - June 2010
 *Specialization: Embedd Systems*
 
 ## Skills
-- **Primary Languages**: Java, Objective-C, Bash
-- **Secondary Languages**: Python, C/C++, PHP, MySQL, HTML, JavaScript, CSS, XML, Android 4.0
-- **Operating Systems**: Mac OS X, Linux (Ubuntu, Arch Linux), Windows
-- **Foreign Languages**:  Fluent native Spanish speaker/writer
+- **Primary Languages**: Java
+- **Operating Systems**: Mac OS X, Windows
+- **Foreign Languages**:  Fluent native Spanish speaker & writer
 
 
 ## Teaching Experience

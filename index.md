@@ -1,5 +1,5 @@
 # Pedro [Roman] Ortega
-## Contact Info: [Email] romanportega@gmail.com
+## Contact Info: ![Mail Icon](mail-icon-logo-28FE0635D0-seeklogo.com.png) romanportega@gmail.com
 
 
 ## Education

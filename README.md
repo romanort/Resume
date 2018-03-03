@@ -5,13 +5,13 @@
 
 ## Education 
  - **MiraCosta College** 
- 	*Intended: B.S. Cogntive Science  & Computer Science*
+ 	- *Intended: B.S. Cogntive Science  & Computer Science*
 
 ## Skills
 - **Primary Language**: Java
 - **Courses Taken**: Advanced Java, Data Structures & Algorithms  
 - **Operating Systems**: Mac OS X, Windows
-- **Foreign Languages**: Fluent native Spanish speaker & writer
+- **Foreign Languages**: Fluent native Spanish speaker & writer 
 
 ## Work Experience
 - **Progressive Behavioral Therapy - *Escondido, CA***
@@ -35,5 +35,5 @@
 	- Worked alongside the general student body and STEM Center staff to address student needs, organize community outreach events, gather funding, and implement changes
 
 ## Honors and Awards
-- Dean’s Honor List, MiraCosta College, Fall 2017
+- President's List, MiraCosta College, Fall 2017
 

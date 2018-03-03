@@ -32,7 +32,7 @@
 	
 - **Nordson STEM Club**
 	- *(February 2017 - Current)*
-	- Worked alongside the general student body and STEM Center staff to address student needs, implement community outreach, gather funding, and 
+	- Worked alongside the general student body and STEM Center staff to address student needs, organize community outreach events, gather funding, and implement changes
 
 ## Honors and Awards
 - Dean’s Honor List, MiraCosta College, Fall 2017

@@ -1,6 +1,6 @@
 # ![Profile Picture](profile pic.jpg)
 # Pedro _Roman_ Ortega 
-## Contact Info: ![Mail Icon](mailicon.png) romanportega@gmail.com
+## Contact Info: ![Mail Icon](mailicon.png) [Email](romanportega@gmail.com)
 
 
 ## Education 

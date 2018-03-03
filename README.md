@@ -5,7 +5,7 @@
 
 ## Education 
  - **MiraCosta College** 
- -*Intended: B.S. Cogntive Science  & Computer Science*
+ 	- *Intended: B.S. Cogntive Science  & Computer Science*
 
 ## Skills
 - **Primary Language**: Java

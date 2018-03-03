@@ -1,11 +1,11 @@
 ![Profile Picture](profile pic.jpg) 
 # Pedro _Roman_ Ortega 
-## Contact Info: ![Mail Icon](mailicon.png) [Email](romanportega@gmail.com)
+## Contact Info:   ![Mail Icon](mailicon.png) [Email](romanportega@gmail.com)
 
 
 ## Education 
  - **MiraCosta College** 
- 	- *Intended: B.S. Cogntive Science  & Computer Science*
+ 	*Intended: B.S. Cogntive Science  & Computer Science*
 
 ## Skills
 - **Primary Language**: Java

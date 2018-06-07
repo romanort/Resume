@@ -9,9 +9,9 @@
 
 ## Skills
 - **Primary Language**: Java
-- **Courses Taken**: Advanced Java, Data Structures & Algorithms  
+- **Courses Taken**: Java I & II, Data Structures & Algorithms  
 - **Operating Systems**: Mac OS X, Windows
-- **Foreign Languages**: Fluent native Spanish speaker & writer 
+- **Foreign Languages**: Fluent Spanish Speaker & Writer 
 
 ## Work Experience
 - **Progressive Behavioral Therapy - *Escondido, CA***
@@ -28,10 +28,10 @@
 ## Extra Curriculars
 - **Nordson STEM Center - *Oceanside, CA***
 	- *Computer Science Tutor (January 2017 - Current)*
-	- Tutored CS 111 & CS 112 in intermediate Java and basic Data Structure and Algorithms as part of the new Nordson STEM Center at MiraCosta College
+	- Tutored introductory CS 111 & CS 112 in Java and basic Data Structure and Algorithms as part of the Nordson STEM Center at MiraCosta College
 	
 - **Nordson STEM Club**
-	- *(February 2017 - Current)*
+	- *Vice President (February 2017 - Current)*
 	- Worked alongside the general student body and STEM Center staff to address student needs, organize community outreach events, gather funding, and implement changes
 
 ## Honors and Awards
